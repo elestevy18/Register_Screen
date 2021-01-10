@@ -1,4 +1,5 @@
-# Register_Screen
+# Register Screen made with React
+
 iOS
 [![Screen-Shot-2020-12-30-at-8-24-11-AM.png](https://i.postimg.cc/Df40QJy9/Screen-Shot-2020-12-30-at-8-24-11-AM.png)](https://postimg.cc/CdYwSK87)
 
